@@ -1,0 +1,9 @@
+.account-heading {
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: inherit;
+    line-height: 2em;
+}
+.account-headcontainer {
+    text-align: left;    
+}
